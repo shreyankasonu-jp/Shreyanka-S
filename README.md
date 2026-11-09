@@ -46,11 +46,29 @@ Feel free to explore my projects and connect with me!
 
 🔗 [View Project on GitHub](https://github.com/shreyankasonu-jp/AI-Based-Object-Detection-System)
 
-### 2. Python Number to Words Converter
-- Converts numerical values into words.
+## 🚀 My Projects
+
+### 2. Chronic Disease Prediction System
+- Developed using Machine Learning techniques.
+- Predicts chronic diseases using classification algorithms.
+- Uses CNN, Logistic Regression, and Random Forest.
+
+🔗 [View Project on GitHub](https://github.com/shreyankasonu-jp/Chronic-Disease-Prediction-System)
+
+### 3. Student Details System
+- Developed using JavaScript.
+- Designed to manage and display student details.
+- Demonstrates JavaScript programming concepts.
+
+🔗 [View Project on GitHub](https://github.com/shreyankasonu-jp/student_details_syatem)
+
+### 4. Python Number to Words Converter
+- Developed using Python.
+- Converts numerical values into their corresponding words.
 - Handles large and negative numbers.
 - Includes input validation and error handling.
 
+🔗 [View Project on GitHub](https://github.com/shreyankasonu-jp)
 ---
 
 ## 📚 Currently Learning
